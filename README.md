@@ -1,2 +1,2 @@
 # Capstone
-Capstone Project
+Capstone Project for IBM Data Analyst professional certificate
